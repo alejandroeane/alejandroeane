@@ -13,23 +13,14 @@ Credits and references used in this README:
 
 # 👋 Oh, hello there!
 
-**`Data Scientist & AI Engineer`**
-
 <p align="center">
   <a href="https://www.linkedin.com/in/alejandro-escorial-aparicio-b22825382/">LinkedIn</a> ·
   <a href="mailto:alejandroeane@gmail.com">Gmail</a>
 </p>
 
-<p align="left">
-   <a href="https://www.linkedin.com/in/alejandro-escorial-aparicio-b22825382/" target="blank">
-      <img src="https://skillicons.dev/icons?i=linkedin\&theme=light" alt="LinkedIn" />
-   </a>
-   <a href="mailto:alejandroeane@gmail.com" target="blank">
-      <img src="https://skillicons.dev/icons?i=gmail\&theme=light" alt="Gmail" />
-   </a>
-</p>
-
 ## About Me
+
+**`Data Scientist & AI Engineer`**
 
 Passionate about Economy, Data Analysis, Artificial Intelligence, and leveraging technology to solve real-world problems. Currently pursuing studies at a leading technical university in Madrid, building a strong foundation in programming, databases, data analysis, machine learning, and many state of the art technologies. Although my current expertise lies primarily in backend development, I’m also teaching myself frontend development. 
 
@@ -37,12 +28,14 @@ Eager to apply analytical thinking, problem-solving skills, and a continuous lea
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=python,sklearn,tensorflow,matlab,r,mysql,sqlite,html,postman,docker,git,github\&theme=light)](https://github.com/alejandroeane?tab=repositories)
+![My Skills](https://skillicons.dev/icons?i=python,sklearn,tensorflow,matlab,r,mysql,sqlite,html,postman,docker,git,github\&theme=light)
 
 ---
 
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alejandroeane&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+   <a href="https://github.com/alejandroeane?tab=repositories">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alejandroeane&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+   </a>
 </p>
    
 ## Certifications
