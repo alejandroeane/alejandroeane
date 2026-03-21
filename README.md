@@ -15,10 +15,18 @@ Credits and references used in this README:
 
 **`Data Scientist & AI Engineer`**
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/alejandro-escorial-aparicio-b22825382/">LinkedIn</a> ·
+  <a href="mailto:alejandroeane@gmail.com">Gmail</a>
+</p>
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/alejandro-escorial-aparicio-b22825382/" target="blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
+   <a href="https://www.linkedin.com/in/alejandro-escorial-aparicio-b22825382/" target="blank">
+      <img src="https://skillicons.dev/icons?i=linkedin\&theme=light" alt="LinkedIn" />
+   </a>
+   <a href="mailto:alejandroeane@gmail.com" target="blank">
+      <img src="https://skillicons.dev/icons?i=gmail\&theme=light" alt="Gmail" />
+   </a>
 </p>
 
 ## About Me
@@ -31,9 +39,10 @@ Eager to apply analytical thinking, problem-solving skills, and a continuous lea
 
 [![My Skills](https://skillicons.dev/icons?i=python,sklearn,tensorflow,matlab,r,mysql,sqlite,html,postman,docker,git,github\&theme=light)](https://github.com/alejandroeane?tab=repositories)
 
+---
 
 <p align="center">
-![<img src="https://github-readme-stats.vercel.app/api/top-langs?username=alejandroeane&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />](https://github.com/alejandroeane?tab=repositories)
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alejandroeane&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </p>
    
 ## Certifications
