@@ -24,12 +24,10 @@ Credits and references used in this README:
 
 **`Data Scientist & AI Engineer`**
 
-AI Engineer and Full-Stack Developer building practical, innovative solutions with AI, automation, and modern web technologies. Based in **Madrid, Spain** and open to work.
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/alejandro-escorial-aparicio/" target="blank">
+  <a href="https://www.linkedin.com/in/alejandro-escorial-aparicio-b22825382/" target="blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a> ·
+  </a>
   <a href="mailto:alejandroeane@gmail.com" target="blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
@@ -37,22 +35,15 @@ AI Engineer and Full-Stack Developer building practical, innovative solutions wi
 
 ## About Me
 
-I’m a developer focused on building practical systems that combine automation, artificial intelligence, and modern full-stack technologies. I help businesses grow faster by turning time-consuming processes into streamlined systems, with a clear focus on measurable results.
+Passionate about Economy, Data Analysis, Artificial Intelligence, and leveraging technology to solve real-world problems. Currently pursuing studies at a leading technical university in Madrid, building a strong foundation in programming, databases, data analysis, machine learning, and many state of the art technologies. Although my current expertise lies primarily in backend development, I’m also teaching myself frontend development. 
 
-**My Approach:** My work is driven by real business outcomes: increasing revenue, reducing operational costs, and freeing up teams to focus on what matters. I prioritize clean, maintainable code and scalable architecture, and I like to ship in tight feedback loops so solutions improve quickly in the real world.
+Eager to apply analytical thinking, problem-solving skills, and a continuous learning mindset in dynamic environments. Interested in opportunities in data-driven decision-making, AI development, software engineering, and emerging tech projects. Open to collaborations, internships, and entry-level roles where I can contribute, grow, and make an impact.
 
-**What I Do:** I specialize in full-stack development with React, Next.js, Node.js, and cloud platforms like AWS and Vercel. Recently, I’ve been focused on integrating AI into business operations, especially in outreach and sales automation. One example is an AI-powered deep personalization cold outreach system I built for a digital growth agency, which generated over **€20,000** in new sales opportunities in under **30 days** by automating lead research, personalized messaging, and follow-ups to deliver a recurring pipeline of clients.
-
-Outside of work, you’ll usually find me with a guitar in my hands, at the gym, or diving into whatever I’m curious about next.
-
-
-## Skill stack
+## Skills
 
 [![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,js,ts,nodejs,react,nextjs,tailwind,vite,docker,kubernetes,aws,gcp,firebase,vercel,supabase,postgres,mongodb,redis,prisma,git,github,figma\&theme=light)](https://cv.sergio-medina.com)
 
 **I also use**: n8n, Make, LangGraph, BullMQ, Apify, Stripe, Sanity, REST APIs, GitHub Actions, CI/CD, VPC and IAM, outreach tooling and sequencing.
-
----
 
 ## Stats
 
@@ -60,8 +51,6 @@ Outside of work, you’ll usually find me with a guitar in my hands, at the gym,
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alejandroeane&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </p>
    
----
-
 ## Certifications
 
 * **Cambridge English: B2 First (FCE)** (Sep 27, 2025)
