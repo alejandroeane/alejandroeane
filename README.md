@@ -36,7 +36,7 @@ Open to collaborations, internships, and entry-level roles where I can start to 
 
 ## Skills
 
-![My Skills](https://skillicons.dev/icons?i=python,sklearn,tensorflow,matlab,r,mysql,sqlite,html,postman,docker,git,github\&theme=light&nolink=true)
+[![My Skills](https://skillicons.dev/icons?i=python,sklearn,tensorflow,matlab,r,mysql,sqlite,html,postman,docker,git,github\&theme=light&nolink=true)](https://github.com/alejandroeane?tab=repositories)
 
 ---
 
