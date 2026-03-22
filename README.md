@@ -38,18 +38,9 @@ Open to collaborations, internships, and entry-level roles where I can start to 
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=python,sklearn,tensorflow,matlab,r,mysql,sqlite,html,postman,docker,git,github\&theme=light)](https://github.com/alejandroeane?tab=repositories)
-
 <p align="center">
    <picture>
-      <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,matlab,r,mysql,sqlite,html,postman,docker,git,github&theme=light" alt="My Skills">
-   </picture>
-</p>
-
-
-<p align="center">
-   <picture>
-      <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,js,ts,nodejs,react,nextjs,tailwind,vite,docker,kubernetes,aws,gcp,firebase,vercel,supabase,postgres,mongodb,redis,prisma,git,github,figma\&theme=light" alt="My Skills">
+      <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,matlab,r,mysql,sqlite,html,postman,docker,git,github&theme=light" alt="Skills">
    </picture>
 </p>
 
@@ -57,7 +48,7 @@ Open to collaborations, internships, and entry-level roles where I can start to 
 
 <p align="center">
    <a href="https://github.com/alejandroeane?tab=repositories">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alejandroeane&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alejandroeane&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Graph"  />
    </a>
 </p>
    
