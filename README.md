@@ -14,7 +14,7 @@ Credits and references used in this README:
 # 👋 Oh, hello there!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/alejandro-escorial-aparicio-b22825382/">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/alejandroeane/">LinkedIn</a> ·
   <a href="mailto:alejandroeane@gmail.com">Gmail</a>
 </p>
 
