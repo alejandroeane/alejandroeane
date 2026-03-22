@@ -26,7 +26,7 @@ Credits and references used in this README:
 
 **`Data Scientist & AI Engineer`**
 
-Passionate about Economy, Data Analysis, Artificial Intelligence, and leveraging technology to solve real-world problems. Currently pursuing studies at a leading technical university in Madrid, building a strong foundation in programming, databases, data analysis, machine learning, and many state of the art technologies. Although my current expertise lies primarily in backend development, I’m also teaching myself frontend development. 
+Passionate about Economy, Data Analysis, Artificial Intelligence, and leveraging technology to solve real-world problems. Currently pursuing studies at a leading technical university in Madrid, building a strong foundation in programming, databases, data analysis, machine learning, and many state of the art technologies. Also, although my current expertise lies primarily in backend development, I’m teaching myself frontend development. 
 
 Eager to apply analytical thinking, problem-solving skills, and a continuous learning mindset in dynamic environments. Interested in opportunities in data-driven decision-making, AI development, software engineering, and emerging tech projects. Open to collaborations, internships, and entry-level roles where I can contribute, grow, and make an impact.
 
