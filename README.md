@@ -32,7 +32,7 @@ Currently pursuing studies at a leading technical university in Madrid, building
 
 Eager to apply my analytical thinking and commitment to continuous learning in dynamic work environments. Particularly interested in opportunities related to data-driven decision-making, AI development, software engineering, and projects involving emerging technologies.
 
-Open to collaborations, internships, and entry-level roles where I can contribute, grow, and make a difference.
+Open to collaborations, internships, and entry-level roles where I can start to contribute, grow, and make a difference.
 
 ## Skills
 
