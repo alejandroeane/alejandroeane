@@ -49,7 +49,7 @@ Open to collaborations, internships, and entry-level roles where I can start to 
 
 <p align="center">
    <picture>
-      <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,js,ts,nodejs,react,nextjs,tailwind,vite,docker,kubernetes,aws,gcp,firebase,vercel,supabase,postgres,mongodb,redis,prisma,git,github,figma\&theme=light)" alt="My Skills">
+      <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,js,ts,nodejs,react,nextjs,tailwind,vite,docker,kubernetes,aws,gcp,firebase,vercel,supabase,postgres,mongodb,redis,prisma,git,github,figma\&theme=light" alt="My Skills">
    </picture>
 </p>
 
