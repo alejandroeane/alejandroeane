@@ -1,14 +1,8 @@
 <!--
 Credits and references used in this README:
-
-1) Layout ideas and section inspiration:
-   https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#descriptive-
-
-2) Skill icons (SVG badges):
-   https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list
-
-3) GitHub stats card:
-   https://github.com/anuraghazra/github-readme-stats
+1) Awesome GitHub Profile README (https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+2) Skill Icons (https://github.com/tandpfun/skill-icons)
+3) GitHub Stats Extended (https://github.com/stats-organization/github-stats-extended)
 -->
 
 # 👋 Oh, hello there!
@@ -40,21 +34,20 @@ Open to collaborations, internships, and entry-level roles where I can start to 
 
 <p align="center">
    <picture>
-      <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,matlab,r,mysql,sqlite,html,postman,docker,git,github&theme=light" alt="Skills">
+      <img src="https://skillicons.dev/icons?i=py,sklearn,tensorflow,selenium,html,matlab,r,mysql,sqlite,docker,git,github,raspberrypi&theme=light" alt="Skills">
    </picture>
 </p>
 
----
+<div align="center">
+   <picture>
+      <img src="https://github-stats-extended.vercel.app/api/top-langs?username=alejandroeane&layout=compact&hide_title=false&theme=nightowl">
+   </picture>
+</div>
 
-<p align="center">
-   <a href="https://github.com/alejandroeane?tab=repositories">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alejandroeane&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Graph"  />
-   </a>
-</p>
-   
 ## Certifications
 
 * **Oxford Test of English: B2** (March 2023)
 * **HarvardX - Fat Chance: Probability from the Ground Up** (August 2024)
 * **HarvardX - CS50's Introduction to Programming with Python** (September 2025)
 * **MathWorks - Foundational MATLAB** (August 2025)
+* **BEST Wroclaw - Racing against hackers: Advanced Cybersecurity and Digital Forensics for IoT** (July 2026)
